@@ -7,7 +7,7 @@ edgeai_parallel/pretrained_model
 edgeai_parallel/records
 Healthcare_ICU/Heart_Failure_Prediction
 Healthcare_ICU/mimic3-benchmarks
-Healthcare_ICU/mimiclite
+Healthcare_ICU/mimic3lite
 Healthcare_ICU/mimiclite2020/data.tar.gz
 Healthcare_ICU/mimiclite2020/experiments
 Healthcare_ICU/mimiclite2020/mimic3benchmark
