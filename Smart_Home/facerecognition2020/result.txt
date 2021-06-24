@@ -1,0 +1,68 @@
+image size 224
+[<tf.Tensor 'feature/unstack:0' shape=() dtype=int32>, 7, 7, 512]
+do batch norm after network
+Runnning forward pass on LFW images
+handing 0/12000
+handing 200/12000
+handing 400/12000
+handing 600/12000
+handing 800/12000
+handing 1000/12000
+handing 1200/12000
+handing 1400/12000
+handing 1600/12000
+handing 1800/12000
+handing 2000/12000
+handing 2200/12000
+handing 2400/12000
+handing 2600/12000
+handing 2800/12000
+handing 3000/12000
+handing 3200/12000
+handing 3400/12000
+handing 3600/12000
+handing 3800/12000
+handing 4000/12000
+handing 4200/12000
+handing 4400/12000
+handing 4600/12000
+handing 4800/12000
+handing 5000/12000
+handing 5200/12000
+handing 5400/12000
+handing 5600/12000
+handing 5800/12000
+handing 6000/12000
+handing 6200/12000
+handing 6400/12000
+handing 6600/12000
+handing 6800/12000
+handing 7000/12000
+handing 7200/12000
+handing 7400/12000
+handing 7600/12000
+handing 7800/12000
+handing 8000/12000
+handing 8200/12000
+handing 8400/12000
+handing 8600/12000
+handing 8800/12000
+handing 9000/12000
+handing 9200/12000
+handing 9400/12000
+handing 9600/12000
+handing 9800/12000
+handing 10000/12000
+handing 10200/12000
+handing 10400/12000
+handing 10600/12000
+handing 10800/12000
+handing 11000/12000
+handing 11200/12000
+handing 11400/12000
+handing 11600/12000
+handing 11800/12000
+Accuracy: 0.992+-0.004
+Validation rate: 0.95133+-0.02217 @ FAR=0.00100
+Area Under Curve (AUC): 0.999
+Equal Error Rate (EER): 0.009

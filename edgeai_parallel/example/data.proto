@@ -1,0 +1,13 @@
+syntax = "proto3";
+//package example;
+ 
+ 
+service FormatData {   //service name
+  rpc DoFormat(actionrequest) returns (actionresponse){}
+}
+message actionrequest {
+  string text = 1;
+}
+message actionresponse{
+  string text=1;
+}

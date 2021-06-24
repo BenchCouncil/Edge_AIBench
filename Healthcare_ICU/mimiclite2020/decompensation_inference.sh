@@ -1,0 +1,1 @@
+python -um mimic3models.decompensation.main --network mimic3models/keras_models/lstm.py --dim 128 --timestep 1.0 --depth 1 --mode test --batch_size 8 --load_state mimic3models/decompensation/keras_states/k_lstm.n128.dep1.bs8.ts1.0.chunk11.test0.08547208370879525.state --output_dir mimic3models/decompensation
